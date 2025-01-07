@@ -26,3 +26,4 @@ GRF_right_train = GRF_right[GRF_right["TRAIN"] == 1]
 GRF_right_test = GRF_right[GRF_right["TRAIN"] == 0]
 GRF_left_train = GRF_left[GRF_left["TRAIN"] == 1]
 GRF_left_test = GRF_left[GRF_left["TRAIN"] == 0]
+print ("hi")
